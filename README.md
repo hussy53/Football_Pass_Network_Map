@@ -6,4 +6,4 @@ Repository for building customizable passing networks with MPL Soccer &amp; Pand
 
 Analysis:
 1) The team prefers to play centrally. Can vary depending on the opponent's team formation
-2) The LB & RB like to play high up. On average they like to play aggresively
+2) The LB & RB like to play high up. On average the team likes to play aggresively
