@@ -1,4 +1,4 @@
-# Football_Pass_Network_Map
+# Football_Pass_Network_Map_(Opposition_Analysis)
 Repository for building customizable passing networks with MPL Soccer &amp; Pandas. Able to:
 1) Extract data of one team
 2) Find successful passes of players who started initially
